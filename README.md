@@ -1,4 +1,4 @@
-# Scrap IMDB
+# Scrape IMDB
 
 Extracting data like. movies list and images from [IMDB](https://www.imdb.com/).
 
